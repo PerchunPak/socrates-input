@@ -4,7 +4,6 @@
 
 [![Build Status](https://github.com/PerchunPak/socrates-input/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/PerchunPak/socrates-input/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/PerchunPak/socrates-input/branch/master/graph/badge.svg)](https://codecov.io/gh/PerchunPak/socrates-input)
-[![Documentation Build Status](https://readthedocs.org/projects/socrates-input/badge/?version=latest)](https://socrates-input.readthedocs.io/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Python support versions badge (from pypi)](https://img.shields.io/pypi/pyversions/socrates-input)](https://www.python.org/downloads/)
 
