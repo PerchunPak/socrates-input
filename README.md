@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/PerchunPak/socrates-input/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/PerchunPak/socrates-input/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/PerchunPak/socrates-input/branch/master/graph/badge.svg)](https://codecov.io/gh/PerchunPak/socrates-input)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Python support versions badge (from pypi)](https://img.shields.io/pypi/pyversions/socrates-input)](https://www.python.org/downloads/)
+[![Python support versions badge](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://www.python.org/downloads/)
 
 A simple API to ask a user for information in a beatiful way.
 
